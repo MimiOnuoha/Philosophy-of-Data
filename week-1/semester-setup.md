@@ -55,15 +55,41 @@ See below for an example: </br>
 Voila! 
 
 ## Setting up your blog
+### Why Are We Doing This?
 For the semester, you're required to have a website or blog where you respond to assignments, post your homework, and document your projects. You have a few options for this: you can either use Github Pages, host a website yourself, or use an existing  content management system (such as Tumblr, Wordpress, etc.)
 
 I am going to be showing you how to use Github Pages, for a number of reasons. First, the structure of updating your github webpage is similar to the process of using git in general. Second, we want to use open-source projects whenever possible. Third, while the process might be confusing now, it's one that you can use whenever you want, so in the future you'll be able to easily host things online. 
 
-In short, I think of using Github Pages as empowering. But for newbies, it can also be a little overwhelming, so if you find things too complicated, feel free to use a different platform for your website. 
+In short, I think using Github Pages is empowering. But for newbies, it can also be a little overwhelming, so if you find things too complicated, feel free to use a different platform for your website. 
 
-By this point, you already have git and a github account, so this part shouldn't be too hard! We'll be using [Jekyll-Now](https://github.com/barryclark/jekyll-now/tree/master/_posts), so follow the link to the repo and just want to **follow the directions in the section titled "Quick Start"**.
+### How to set up a blog with Github Pages
 
-NOTE: If you are ambitious and get to the section that says Local Development, instead of `gem install github-pages` you may have to try `sudo gem install -n /usr/local/bin github-pages`.
+By this point, you already have git and a github account, so this won't be too hard. We're going to be using [Lanyon](https://github.com/poole/lanyon),  a theme for websites that is based off of something called Jekyll. Here's all you need to do:
+
+1. **Log in to your github account.** 
+2. **Navigate to the Lanyon repository** </br> It can be found [here](https://github.com/poole/lanyon).
+3. **Click the button at the top that says "Fork"** </br> Forking a repository means that you are creating your own copy of an existing repository (a repository is a directory someone has created of code and files). When you've forked a repo, you can do anything you want to it without affecting the original. 
+4. **Change the name of the forked repository.** </br> Once the repository has been forked, click the button at the top for "Settings". Change the repository name from "lanyon" to YOURGITHUBUSERNAME.github.io. (Obviously insert your actual github username there). Then click the "Rename" button. 
+5. **Change the _config.yml file**</br> We need to do a couple things in the configuration for the site. Click on the config.yml file, then click the pencil so you can edit the file. </br></br>Now delete or comment out (by placing a # in front of) the line that says `relative_permalinks: true`. </br>Next, change the Setup and the About/contact section so that they reflect your information. 
+6. Now navigate to https://YOURGITHUBNAME.github.io. You should have a brand new site!
+
+
+To customize the site by changing the colors for the theme, you just have to navigate to the "default.html" file in the _layouts folder and edit the `<body>` tag so that it matches the options described in the [README](https://github.com/poole/lanyon).
+
+### Adding a new post
+There are two ways to add a new post. The first way is easier but a little limited. The second way is harder but allows for more flexibility. Once you've added a new post, you'll want to go back and delete the old posts that came with the site, so that it is clear that it's yours. 
+
+#### Method 1: Posting through the github site
+1. **In your repo, click on the folder that says "_posts"**
+2. **Click the button that says "Create new file"**
+3. **Make sure that you name your file in this style**:</br> YYYY-MM-DD-title-of-post </br> For example, you could title your post 2017-09-04-first-post</br></br>(The reason we do this is because if our posts are correctly dated then the most recent one will always appear first).
+4. **Use the edit button to edit the file and write your post.** </br>When you're finished, hit the "commit changes" button. 
+5. It might take a few minutes, but navigate to your site and you should see your brand new post. 
+
+#### Method 2: Writing and developing locally 
+We haven't yet gotten to this, but if you're ambitious and want to try, go [here](https://github.com/barryclark/jekyll-now#quick-start) to the section that says "Local Development" and follow the instructions. 
+
+Note that instead of `gem install github-pages` you may have to try `sudo gem install -n /usr/local/bin github-pages`.
 
 
 ## Resources
