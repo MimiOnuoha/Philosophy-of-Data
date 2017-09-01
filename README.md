@@ -8,7 +8,7 @@
 **Office Hours:** TBD, email for appointment 
 
 
-**Turn in homework [here](https://goo.gl/forms/fNxmNXKEOQeZwrNH3 )** 
+**Turn in homework [HERE](https://goo.gl/forms/fNxmNXKEOQeZwrNH3 )**.
 
 
 ## Course Description 
@@ -23,7 +23,9 @@ This course is equal parts technical (programming-based) and conceptual (writing
 - Class attendance and punctuality
 - Participation during class discussions and presentations
 - Weekly assignments + accompanying blogposts 
-- Midterm and final project (completed individually or in groups)
+- Midterm and final project (completed individually or in groups) + online documentation
+
+This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance.
 
 
 ## Evaluation
@@ -37,19 +39,28 @@ For the midterm and final projects, I am more interested in what you choose to d
 ## Format 
 The course will cover a number of different themes that intersect with issues of data collection. Because each theme consists of both a technical and conceptual idea, most themes will span two weeks. 
 
-Each class will have the same structure: the first portion of class will be devoted to reviewing homework. The next will consist of a critical reading, viewing, or discussion. The last will consist of a coding exercise or technical workshop (I will screenrecord the technical sections of class so that you can refer to them outside of class). The portions of class devoted to each of these will differ depending on the week. 
+Each class will have the same structure: the first portion of class will be devoted to reviewing homework. The next will consist of a critical reading, viewing, or discussion. The last will consist of a coding exercise or technical workshop (I will screen-record the technical sections of class so that you can refer to them outside of class). The portions of class devoted to each of these will differ depending on the week. 
 
 For some weeks, there will be additional links and resources provided. It is not necessary for you to look at these, however, it would certainly be interesting to look at them and think through connections to the subject matter of the class.
+
+Though we will meet in a lab that has computers, it may be beneficial to bring your laptop with you to class. 
 
 I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner. 
 
 ## Syllabus
 **Week One: September 5**    
-*Introductions to course, logistics, data, and each other*
+Introductions to course, logistics, data, and each other
+
+*Assignment:*
+
+- Read through [this](http://rwet.decontextualize.com/book/unix/) to be prepared for next class. If you're ambitious, you can follow along and try some of the commands. 
+- Read Mitchell Whitelaw's "Art Against Information" (in readings folder)
+- Write  a 300-500 word entry about your thoughts on Whitelaw's piece or anything we talked about in class. What stood out to you about either class or the text? What interests about data collection and implications of networked society? You can write anything, but you must post to your new blog and submit it using the homework link (see above). No need to have any images in your post.
+
 
 **Week Two: September 12**  
 *Archives, Collections, Memory, part 1*   
-Data begins with storage, collection, memory. 
+Data begins with storage, collection, memory.   
 [Fundamentals of programming in Python]
 
 **Week Three: September 19**      
@@ -85,20 +96,20 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
 *Guest presentations or field trip--TBA*
 
 **Week Eleven: November 14**  
-*Missing Things and Uncertainty, part 1*   
-The most important decision of any dataset is what you decide to leave out. Who gets to decide, and how do we visualize things that are missing? 
+*Plan Day--No Class*
 
 **Week Twelve: November 28**  
-*Missing Things and Uncertainty, part 2*   
+*Missing Things and Uncertainty*  
+The most important decision of any dataset is what you decide to leave out. Who gets to decide, and how do we visualize things that are missing? 
 
 
 **Week Thirteen: December 5**  
-*Futures: Speculation, Machine Learning, Aritficial Intelligence*
+*Futures: Speculation, Machine Learning, Artificial Intelligence*
 
 
 **Week Fourteen: December 12**   
 *Final Project Presentations*
 
-
-
+# Special Thanks 
+To Allison Parrish, whose homework form template I've used.
 
