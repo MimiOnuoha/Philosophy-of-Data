@@ -1,7 +1,7 @@
 # Getting set up for the semester 
 
 ## Overview 
-For our class we'll be using a number of different libraries and softwares. This is a document about some of the things you'll need to be familiar with for the semester. Even though the majority of the class will be in Python, we'll need the support of a few other tools and libraries. Here's an overview of some things that we'll be using or referring to over the semester. Note that this list is not exhaustive:
+Even though the majority of the class will be taught in Python, we'll need Here's an overview (not exhaustive) of some additional, foundation things that we'll be using or referring to over the semester:
 
 - **Terminal**: Also known as the command line, or shell, or console. It's an interface in which you can type and execute text based commands. It's just like Finder, but is another (often faster and more direct) way of interacting with the computer. 
 - **Git**: an open-source version control system that tracks changes to a file. A tool used with the command line, useful for maintaining and referring to multiple versions of a file.
