@@ -77,7 +77,7 @@ By this point, you already have git and a github account, so this won't be too h
 To customize the site by changing the colors for the theme, you just have to navigate to the "default.html" file in the _layouts folder and edit the `<body>` tag so that it matches the options described in the [README](https://github.com/poole/lanyon).
 
 ### Adding a new post
-There are two ways to add a new post. The first way is easier but a little limited. The second way is harder but allows for more flexibility. Once you've added a new post, you'll want to go back and delete the old posts that came with the site, so that it is clear that it's yours. 
+There are three ways to add a new post. The first two ways are easier but a little limited. The second way is harder but allows for more flexibility. Once you've added a new post, you'll want to go back and delete the old posts that came with the site, so that it is clear that it's yours. 
 
 #### Method 1: Posting through the github site
 1. **In your repo, click on the folder that says "_posts"**
@@ -86,7 +86,12 @@ There are two ways to add a new post. The first way is easier but a little limit
 4. **Use the edit button to edit the file and write your post.** </br>When you're finished, hit the "commit changes" button. 
 5. It might take a few minutes, but navigate to your site and you should see your brand new post. 
 
-#### Method 2: Writing and developing locally 
+#### Method 2: Use a third party client like [Prose](http://prose.io/)
+Go to [Prose](http://prose.io/), allow access to your Github, and you'll be presented with a clean and easy-to-work-with interface for the site. Essentially, you'll be following all the same instructions as for Method 1, but in a much nicer way.
+
+See [this video](https://www.youtube.com/watch?v=n1hJomsmk2s) for a quick demonstration. 
+
+#### Method 3: Writing and developing locally 
 We haven't yet gotten to this, but if you're ambitious and want to try, go [here](https://github.com/barryclark/jekyll-now#quick-start) to the section that says "Local Development" and follow the instructions. 
 
 Note that instead of `gem install github-pages` you may have to try `sudo gem install -n /usr/local/bin github-pages`.
