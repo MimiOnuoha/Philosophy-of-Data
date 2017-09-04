@@ -87,7 +87,7 @@ There are three ways to add a new post. The first two ways are easier but a litt
 5. It might take a few minutes, but navigate to your site and you should see your brand new post. 
 
 #### Method 2: Use a third party client like [Prose](http://prose.io/)
-Go to [Prose](http://prose.io/), allow access to your Github, and you'll be presented with a clean and easy-to-work-with interface for the site. Essentially, you'll be following all the same instructions as for Method 1, but in a much nicer way.
+Go to [Prose](http://prose.io/), allow access to your Github, and you'll be presented with a clean and easy-to-work-with interface. Follow all the same instructions as for Method 1, but you'll see that it's much simple and nicer to use.
 
 See [this video](https://www.youtube.com/watch?v=n1hJomsmk2s) for a quick demonstration. 
 

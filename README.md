@@ -5,7 +5,7 @@
 **Term:** Fall 2017  
 **Time:** Tuesdays, 2:10pm - 6:00pm   
 **Course Number:** DA 2132, 4 credits   
-**Office Hours:** TBD, email for appointment 
+**Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)
 
 
 **Turn in homework [HERE](https://goo.gl/forms/fNxmNXKEOQeZwrNH3 )**.
@@ -25,7 +25,10 @@ This course is equal parts technical (programming-based) and conceptual (writing
 - Weekly assignments + accompanying blogposts 
 - Midterm and final project (completed individually or in groups) + online documentation
 
-This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance.
+This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
+
+All students are allowed a maximum of two absences. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
+
 
 
 ## Evaluation
@@ -53,7 +56,7 @@ Introductions to course, logistics, data, and each other
 
 *Assignment:*
 
-- Read through [this](http://rwet.decontextualize.com/book/unix/) to be prepared for next class. If you're ambitious, you can follow along and try some of the commands. 
+- Read through [this](http://rwet.decontextualize.com/book/unix/) up until the section that begins with "Structure of UNIX commands". If you're ambitious, you can follow along and try some of the commands. 
 - Read Mitchell Whitelaw's "Art Against Information" (in readings folder)
 - Write  a 300-500 word entry about your thoughts on Whitelaw's piece or anything we talked about in class. What stood out to you about either class or the text? What interests about data collection and implications of networked society? You can write anything, but you must post to your new blog and submit it using the homework link (see above). No need to have any images in your post.
 
