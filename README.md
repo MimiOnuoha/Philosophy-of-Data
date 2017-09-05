@@ -56,9 +56,10 @@ Introductions to course, logistics, data, and each other
 
 *Assignment:*
 
-- Read through [this](http://rwet.decontextualize.com/book/unix/) up until the section that begins with "Structure of UNIX commands". If you're ambitious, you can follow along and try some of the commands. 
-- Read Mitchell Whitelaw's "Art Against Information" (in readings folder)
-- Write  a 300-500 word entry about your thoughts on Whitelaw's piece or anything we talked about in class. What stood out to you about either class or the text? What interests about data collection and implications of networked society? You can write anything, but you must post to your new blog and submit it using the homework link (see above). No need to have any images in your post.
+- Read through [this](http://rwet.decontextualize.com/book/unix/) up until the section that begins with "Structure of UNIX commands". If you're feeling ambitious, you can follow along and try some of the commands. 
+- Read Maciej Ceglowski's ["The Internet With A Human Face"](http://idlewords.com/talks/internet_with_a_human_face.htm) 
+- Write  a 300-500 word entry about your thoughts on Ceglowski's piece or anything we talked about in class. What has stood out to you about this so far? What interests you about data collection and implications of networked society? You can write anything, but you must post to your new blog and submit the URL of the blogpost using the homework link (see above). 
+- Bonus: Change the about page of your website and the links on the navigation bar at the top. Check the README file to see how to do this. 
 
 
 **Week Two: September 12**  
