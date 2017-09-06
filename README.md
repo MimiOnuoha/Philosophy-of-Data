@@ -5,9 +5,9 @@
 **Term:** Fall 2017  
 **Time:** Tuesdays, 2:10pm - 6:00pm   
 **Course Number:** DA 2132, 4 credits   
-**Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)
-
-
+**Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)  
+**Anna's Office Hours:** Monday: 1-3pm, Thursday: 2-4pm, Friday: 11-1pm
+ 
 **Turn in homework [HERE](https://goo.gl/forms/fNxmNXKEOQeZwrNH3 )**.
 
 
