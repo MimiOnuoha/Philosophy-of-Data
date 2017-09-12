@@ -63,12 +63,14 @@ Introductions to course, logistics, data, and each other
 
 
 **Week Two: September 12**  
-*Archives, Collections, Memory, part 1*   
-Data begins with storage, collection, memory.   
-[Fundamentals of programming in Python]
+*Archives, Collections, Memory, part 1: A World Remembered*   
+Data begins with storage, collection, memory. In this class, we'll talk about what that storage looks like physically, how we reconcile with a world where (nearly) everything can be saved, and what forms data can take. 
+Technical exercise: introduction to the command line via git.  
+
 
 **Week Three: September 19**      
-*Archives, Collections, Memory, part 2*   
+*Archives, Collections, Memory, part 2: Deleting, Erasing, Removing*   
+[Fundamentals of programming in Python]
 
 **Week Four: September 26**  
 *Web Scraping and the World As Computer*  

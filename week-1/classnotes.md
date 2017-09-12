@@ -26,3 +26,5 @@ DATA: things we measure and care about (things we care about enough to measure)
 - can we create worlds from scratch? (that lack the baggage of the existing one?)
 - it's not about the data collection, it's about what it's used for
 - http://manyland.com/lotadland --> hang out with Toby here 
+
+[Links](https://docs.google.com/document/d/1rgb8iP-_ssqIIgYvcg_b3RdMdvLrkhD1c7UFen64ZUM/edit?usp=sharing) to the things we talked about at the beginning of class: 
