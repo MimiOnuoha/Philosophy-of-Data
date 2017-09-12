@@ -14,17 +14,6 @@ Even though the majority of the class will be taught in Python, we'll need Here'
 This guide assumes that you have a Macbook. Terms in `monospace` are either code or things that you will need to type into the terminal and then press enter. Don't type the `$` that may precede some of these terms.   
 
 
-## Setting up our computers 
-
-We'll be using the console, or the terminal, a lot this semester, so you'll have many chances to get familiar with it. Don't worry if some of the things that we do in this guide are confusing to you, it'll all make sense in time. 
-
-1. **Install homebrew** </br> [Homebrew](https://brew.sh/) is a package manager for your OSX (the operating system that Macs run), it will help us manage programs on the computer. </br></br> To install, copy and paste this into your terminal window: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` </br></br>*Note:* if you get an error saying that you don't have permission to install this, you may have to sudo the command. That means typing in the word `sudo` before the command, and pressing return. You'll then be prompted to enter your password; type it in and press return, and be aware that as a security measure nothing may show up in the screen even though you're typing. 
-
-2. **Use homebrew to install Ruby** </br> Type `brew install ruby` in your terminal. 
-
-3. **Download RubyGems** </br>Go [here](https://rubygems.org/pages/download/) and download the zip of RubyGems. 
-
-4. **Download Sublime Text** </br> Available [here](https://www.sublimetext.com).
 
 ## Setting up Git and Github 
 Most of the resources and materials and our class will be available on Github. You won't need Git or a Github account to interface with those materials, but it will make things easier for you, and will be useful when it comes to the blogs. 
