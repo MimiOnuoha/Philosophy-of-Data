@@ -69,7 +69,7 @@ Data begins with storage, collection, memory. In this class, we'll talk about wh
 *Assignment:*
 
 - Read through [this](https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz). What do you think about this? Do you think Stephens-Davidowitz is right that Google searches reveal who we most are? Write a 200-400 word response on your blog. Don't forget to submit the URL using the homework link (see above).
-- Practice using the command line with Unix commands. See if you can figure out what the following commands do: `top`, `echo hello world`, `who am i`, `ls -a` `uname -a`, `cal 03 2156`
+- Practice using the command line with Unix commands. See if you can figure out what the following commands do: `top`, `echo hello world`, `who am i`, `ls -a`, `uname -a`, `cal 03 2156`
 - Also figure out how to use the chmod and cat commands. I won't teach this in class, so if we end up needing them I will assume you know what they do. 
  
 BONUS: If you want, you can read Derrida's Archive Fever. We won't have time to cover it in class, but it's a classic (it can be found in the "readings" folder). 
