@@ -77,7 +77,7 @@ BONUS: If you want, you can read Derrida's Archive Fever. We won't have time to 
 
 **Week Three: September 19**      
 *Archives, Collections, Memory, part 2: Deleting, Erasing, Removing*   
-[Fundamentals of programming in Python]</br>This week's [screen recording](https://www.youtube.com/edit?video_id=pcaMNvcVIWY&feature=em-upload_owner).
+[Fundamentals of programming in Python]</br>This week's [screen recording](https://youtu.be/pcaMNvcVIWY).
 
 *Assignment:*
 
