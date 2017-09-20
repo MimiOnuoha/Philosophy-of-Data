@@ -77,12 +77,26 @@ BONUS: If you want, you can read Derrida's Archive Fever. We won't have time to 
 
 **Week Three: September 19**      
 *Archives, Collections, Memory, part 2: Deleting, Erasing, Removing*   
-[Fundamentals of programming in Python]
+[Fundamentals of programming in Python]</br>This week's [screen recording](https://www.youtube.com/edit?video_id=pcaMNvcVIWY&feature=em-upload_owner).
+
+*Assignment:*
+
+- Read [this](https://www.nytimes.com/2015/08/06/technology/personaltech/right-to-be-forgotten-online-is-poised-to-spread.html?mcubz=1). Do you think that the right to be forgotten and a right to information are at odds with each other? Post a response.
+- Use Python to do something interesting with one of the browser search terms. This doesn't have to be fancy or complicated (but can absolutely be both if you have the skillset), but you should try to make use of some [list operations](https://www.tutorialspoint.com/python/python_lists.htm),[string operations](https://thehelloworldprogram.com/python/python-string-methods/), and/or a for loop. Maybe you want to replace words, or print out certain ones, or make a haiku out of something, etc. Post your code online on your blog or put it in a [gist](https://gist.github.com/) on Github and include the link in your site. 
+- Your website entry this week should include the documentation/code for what you did, and your reactions to the article. Do you feel any  differently towards browser search terms after all we've done this week?  
+
+
+**Note 1**:  To download your Google search history,  follow [these](https://support.google.com/accounts/answer/3024190?visit_id=1-636414631927975304-4169243852&rd=2) instructions. They won't look like the ones that we worked with in class, but you can still begin to see what types of things you've been searching for.
+
+**Note 2:** We are going to begin class last week by spending more time with Git, so don't stress if you struggle with posting things! Talk to Anna or shoot me an email if you need help with anything. 
+
+
 
 **Week Four: September 26**  
 *Web Scraping and the World As Computer*  
 Considering the world as a data source.    
 [Scraping web data] 
+
 
 **Week Five: October 3**  
 *Web Scraping and the World As Computer, part 2*  
