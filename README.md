@@ -118,7 +118,6 @@ What does it mean to render ourselves as datapoints? How do we carry out, and wh
 *Quantification and Surveillance, part 2*   
 We are increasingly living in a surveillance state, and data plays a crucial role in facilitating it. What are technical avenues for response, resistance, and complicity? 
 
-
 **Week Ten: November 7**  
 *Guest presentations or field trip--TBA*
 
