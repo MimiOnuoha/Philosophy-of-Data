@@ -95,8 +95,21 @@ BONUS: If you want, you can read Derrida's Archive Fever. We won't have time to 
 **Week Four: September 26**  
 *Web Scraping and the World As Computer*  
 Considering the world as a data source.    
-[Scraping web data] 
 
+*Assignment:*  
+Here is the homework that everyone needs to do:
+
+- Read Mitchell Whitelaw's ["Art Against Information"](http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/)
+- With your partner(s), **extend the program that you were working on in class.** Come up with an interesting exercise that involves scraping the web. Maybe you want to scrape all the images from a site, or do a word frequency analysis of all of the content from a story. You have to use beautifulsoup and html, but you can do whatever you want specifically. 
+- Include in your site post what you wanted to do, the code that you eventually wrote, and whether it succeeded or not. Only **one** of you has to  publish the post, but you should work on it all together. When you submit it include both/all of your names.
+
+And here is additional work for if you are feeling lost about the stuff we did in class:
+
+
+- Do the first eight exercises of [Learn Python The Hard Way ](https://learnpythonthehardway.org/book/ex0.html). For the first exercise, you can skip the setup and start at the part called "Finding Things on the Internet". You don't have to pay to read these, just click the "Next Lesson" button on the bottom right of each page. 
+- Now learn about functions [here](https://www.learnpython.org/en/Functions).
+
+If you are struggling with your code: read your error messages, search StackOverflow, drop by and see Anna, or shoot me an email.
 
 **Week Five: October 3**  
 *Web Scraping and the World As Computer, part 2*  
