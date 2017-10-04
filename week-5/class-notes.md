@@ -36,4 +36,9 @@ Note your thoughts and responses to the pieces. What appealed to you the most? T
 
 - does it need to prove a point? 
 
-  ​
+## Interesting Links
+(h/t Anna)
+
+[Facebook's Russia-linked ads](https://www.nytimes.com/2017/10/02/technology/facebook-russia-ads-.html)
+
+[Annie Dorsen interview](http://blogs.bard.edu/wearewatching/2017/03/15/in-progress-an-interview-with-annie-dorsen-of-the-great-outdoors/)
