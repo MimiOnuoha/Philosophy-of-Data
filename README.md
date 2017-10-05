@@ -7,7 +7,7 @@
 **Course Number:** DA 2132, 4 credits   
 **Office Hours:** Wednesdays, 12pm - 1pm (in Pod or room E214)  
 **Anna's Office Hours:** Monday: 1-3pm, Thursday: 2-4pm, Friday: 11-1pm
- 
+
 **Turn in homework [HERE](https://goo.gl/forms/fNxmNXKEOQeZwrNH3 )**.
 
 
@@ -71,7 +71,7 @@ Data begins with storage, collection, memory. In this class, we'll talk about wh
 - Read through [this](https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz). What do you think about this? Do you think Stephens-Davidowitz is right that Google searches reveal who we most are? Write a 200-400 word response on your blog. Don't forget to submit the URL using the homework link (see above).
 - Practice using the command line with Unix commands. See if you can figure out what the following commands do: `top`, `echo hello world`, `who am i`, `ls -a`, `uname -a`, `cal 03 2156`
 - Also figure out how to use the chmod and cat commands. I won't teach this in class, so if we end up needing them I will assume you know what they do. 
- 
+
 BONUS: If you want, you can read Derrida's Archive Fever. We won't have time to cover it in class, but it's a classic (it can be found in the "readings" folder). 
 
 
@@ -108,12 +108,18 @@ And here is additional work for if you are feeling lost about the stuff we did i
 If you are struggling with your code: read your error messages, search StackOverflow, drop by and see Anna, or shoot me an email.
 
 **Week Five: October 3**  
-*Web Scraping and the World As Computer, part 2*  
-[Working with APIs]
+
+*Aesthetic and Representations, physical and digital*   
+
+How do we respond to the landscape we're in? We are only as good as our representations of the world, so how should we relate to them? 
+
+*Assignment:*  
+
+- Your only assignment this week is to begin working on your midterm project. Meet with your partner(s) to decide on what you want to do for it. Be ready to talk about your idea in class next week, and consult the midterm prompt in the resources folder if you have any questions. 
+- Post an overview of your midterm idea on your blog, and submit it using the homework form. 
 
 **Week Six: October 10**  
-*Aesthetic and Representations, physical and digital*   
-Shifting from acquiring data to considering how we can begin to represent it. We are only as good as our representations of the world, so how should we relate to them? 
+*Python review and working on midterms* 
 
 **Week Seven: October 17**    
 *Midterm Presentations*
