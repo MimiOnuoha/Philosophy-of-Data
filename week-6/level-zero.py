@@ -5,3 +5,6 @@ word_one = "hello"
 word_two = "world"
 space = " "
 
+combination = word_one + space + word_two
+
+print combination 

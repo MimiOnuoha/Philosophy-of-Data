@@ -2,5 +2,5 @@
 
 cars = ["mazda", "toyota", "honda", "porsche", "chevrolet", "infiniti", "land rover", "nissan", "bmw"]
 
-for item in Cars:
+for item in cars:
 	print item

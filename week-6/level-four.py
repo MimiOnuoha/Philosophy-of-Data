@@ -8,7 +8,9 @@ months = ["jan", "feb", "march", "april", "may", "june", "july", "august", "sep"
 question = input("choose either the number 1 or 2: ")
 
 if question == 1:
-
+	for item in months:
+		print item.upper()
 
 if question == 2:
-	
+	for item in months:
+		print item.title()
