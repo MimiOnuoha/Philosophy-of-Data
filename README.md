@@ -151,6 +151,3 @@ The most important decision of any dataset is what you decide to leave out. Who 
 **Week Fourteen: December 12**   
 *Final Project Presentations*
 
-# Special Thanks 
-To Allison Parrish, whose homework form template I've used.
-
