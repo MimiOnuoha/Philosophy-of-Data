@@ -121,16 +121,20 @@ How do we respond to the landscape we're in? We are only as good as our represen
 **Week Six: October 10**  
 *Python review and working on midterms* 
 
+*Assignment:*
+
+Your only assignment is to work on your midterms! Consult the midterm guideline document in the resources folder 
+
 **Week Seven: October 17**    
 *Midterm Presentations*
 
 **Week Eight: October 24**   
-*Quantification and Surveillance, part 1*    
+*Self-quantification*    
 What does it mean to render ourselves as datapoints? How do we carry out, and what is achieved, through self-quantification?    
 [Programmatic self-tracking in Python]
 
 **Week Nine: October 31**   
-*Quantification and Surveillance, part 2*   
+*Surveillance*   
 We are increasingly living in a surveillance state, and data plays a crucial role in facilitating it. What are technical avenues for response, resistance, and complicity? 
 
 **Week Ten: November 7**  
