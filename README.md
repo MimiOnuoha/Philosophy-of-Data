@@ -123,7 +123,7 @@ How do we respond to the landscape we're in? We are only as good as our represen
 
 *Assignment:*
 
-Your only assignment is to work on your midterms! Consult the midterm guideline document in the resources folder 
+Your only assignment is to work on your midterms! Consult the midterm guideline document in the resources folder for more information. 
 
 **Week Seven: October 17**    
 *Midterm Presentations*
