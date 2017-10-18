@@ -1,4 +1,4 @@
-# Midterm 
+#  Midterm 
 
 We've spent the last five weeks talking about different weeks talking about the implications, effects, failings, benefits, and trade-offs of data collection. For your midterm, you have to come up with an original idea and compelling  proof-of-concept that responds to any one of the issues, examples, topics, or work that we have discussed in class. 
 

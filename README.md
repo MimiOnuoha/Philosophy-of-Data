@@ -128,10 +128,18 @@ Your only assignment is to work on your midterms! Consult the midterm guideline 
 **Week Seven: October 17**    
 *Midterm Presentations*
 
+*Assignment*:
+
+- For the new programmers: 
+  - go through the first half of [Code Academy Python course](https://www.codecademy.com/learn/learn-python)! You'll go through the second half next week, and I will assume from that point on that you're familiar with all the things covered in it. 
+- For everyone (I'm going very easy on you, since you're technically on "break", but be prepared to do a lot in class next week):  
+  - read [The Computer for the 21st Century](http://worrydream.com/refs/Weiser%20-%20The%20Computer%20for%20the%2021st%20Century.pdf)  by Mark Weiser. This was written in 1991 (!).  His view is very technopositive. Think about where we were then versus where we are now. Note how much of what Weiser was predicting encompassed latent tracking and collection of data, and in what ways that is or isn't acknowledged. What do you think of the potential future world that he lays out? Have we achieved it? 
+  - Post a brief response on your blog and send the link.  
+  - Write up your midterm documentation and send me the link. It can be [short](http://jillhubley.com/blog/nyctrees) or [long](http://booktwo.org/notebook/the-london-render-search/) but it should include pictures and the information you presented. 
+
 **Week Eight: October 24**   
 *Self-quantification*    
 What does it mean to render ourselves as datapoints? How do we carry out, and what is achieved, through self-quantification?    
-[Programmatic self-tracking in Python]
 
 **Week Nine: October 31**   
 *Surveillance*   
@@ -143,9 +151,11 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
 **Week Eleven: November 14**  
 *Plan Day--No Class*
 
+[start thinking of final project ideas]
+
 **Week Twelve: November 28**  
-*Missing Things and Uncertainty*  
-The most important decision of any dataset is what you decide to leave out. Who gets to decide, and how do we visualize things that are missing? 
+*Transparency  & Obfuscation*  
+Who does transparency benefit? Who does obfuscation benefit? 
 
 
 **Week Thirteen: December 5**  
