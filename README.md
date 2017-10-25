@@ -139,14 +139,37 @@ Your only assignment is to work on your midterms! Consult the midterm guideline 
 
 **Week Eight: October 24**   
 *Self-quantification*    
-What does it mean to render ourselves as datapoints? How do we carry out, and what is achieved, through self-quantification?    
+What does it mean to render ourselves as datapoints? How do we carry out, and what is achieved, through self-quantification?  
+
+*Assignment*:
+
+Your assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification.
+
+- For those in the collective group (Sierra, Eden, Lali, Lulu, Matt):
+  - In the vein of the [Broadway](https://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/) article we read in class, work together to determine a type of data that isn't being collected at Bennington and what it would take to collect it. This is not just a conceptual exercise: you should come into class not only able to explain what you chose, why it matters, and  how you would collect it, but you should also have begun actually collecting some of the actual data (or if the data is better collected programmatically, you shuold have a script that would do the work). 
+  - You will need to work together, but it's up to you to determine what this looks like. 
+- For those in the self-quantification group (Nate, Elbunit, Asad, Toby, Matt, Elio, Lucy, Joe):
+  - Your homework this week is to track TWO different things about yourself  for at least FIVE days in a row. Ideally, one of these should be more passive and programmatic (aka, done with the use of some code that does the bulk of the collection in the background) while the other is active and done by hand (aka, you physically recording some types of data points). 
+  - Be creative with what/how you collect, and be sure to bring in the results of the collection to class next week. 
+    - Examples of programmatic collection: 
+      - Installing an [app](https://play.google.com/store/apps/details?id=com.protogeo.moves&hl=en) on your phone that tracks [everywhere you go](https://foursquare.com/) and then export the data so that you have it for class next week. 
+      - Downloading a program that [tracks everything you do](https://www.rescuetime.com/) on your computer.
+      - Installing a program or writing a custom script that logs [everything you type](https://www.rescuetime.com/) 
+      - I've written a short script that is in the week8 folder that simple asks you to record, via the terminal, your mood on a scale of 1 t o10. You can adapt this script so that it's scheduled to prompt you every so often, or just fill it out on your own every so often.
+      - [Sleeptracking app](https://itunes.apple.com/us/app/sleep-watch-by-bodymatter/id1138066420?mt=8) 
+      - Or come up with your own version!
+      - Scraping from Spotify every song you've listened to 
+    - Examples of active collection by hand:
+      - Writing down everything you eat / how many cigarettes you smoke / etc etc 
+      - Taking a picture of each person you talk to
+      - Journaling around a very specific topic.
 
 **Week Nine: October 31**   
 *Surveillance*   
 We are increasingly living in a surveillance state, and data plays a crucial role in facilitating it. What are technical avenues for response, resistance, and complicity? 
 
 **Week Ten: November 7**  
-*Guest presentations or field trip--TBA*
+*Guest presentation - [Dan Phiffer](https://phiffer.org/)* 
 
 **Week Eleven: November 14**  
 *Plan Day--No Class*
@@ -154,8 +177,8 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
 [start thinking of final project ideas]
 
 **Week Twelve: November 28**  
-*Transparency  & Obfuscation*  
-Who does transparency benefit? Who does obfuscation benefit? 
+*Transparency , Obfuscation and missing data*  
+Who does transparency benefit? Who does obfuscation benefit? What is it that we do not, and cannot, collect? 
 
 
 **Week Thirteen: December 5**  
