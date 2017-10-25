@@ -143,7 +143,14 @@ What does it mean to render ourselves as datapoints? How do we carry out, and wh
 
 *Assignment*:
 
-Your assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification.
+You have readings and exercises to do this week:
+
+READINGS: 
+
+- [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) - Shoshana Zuboff 
+- *The end of forgetting: Strategic agency beyond the panopticon* - Bossewitch and Sinnreich (find this in readings folder) 
+
+Your other assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification.
 
 - For those in the collective group (Sierra, Eden, Lali, Lulu, Matt):
   - In the vein of the [Broadway](https://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/) article we read in class, work together to determine a type of data that isn't being collected at Bennington and what it would take to collect it. This is not just a conceptual exercise: you should come into class not only able to explain what you chose, why it matters, and  how you would collect it, but you should also have begun actually collecting some of the actual data (or if the data is better collected programmatically, you shuold have a script that would do the work). 
