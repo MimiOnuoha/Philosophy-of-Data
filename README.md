@@ -150,17 +150,14 @@ READINGS:
 - [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) - Shoshana Zuboff 
 - *The end of forgetting: Strategic agency beyond the panopticon* - Bossewitch and Sinnreich (find this in readings folder) 
 
-Your other assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification.
+Your other assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification. *You all should come to class next week with the data you collected, prepared to talk about the experience.*
 
 - For those in the collective group (Sierra, Eden, Lali, Lulu, Matt):
-
-  - In the vein of the [Broadway](https://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/) article we read in class, work together to determine a type of data that isn't being collected at Bennington and what it would take to collect it. This is not just a conceptual exercise: you should come into class not only able to explain what you chose, why it matters, and  how you would collect it, but you should also have begun actually collecting some of the actual data (or if the data is better collected programmatically, you shuold have a script that would do the work). 
+  - In the vein of the [Broadway](https://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/) article we read in class, work together to determine a type of data that isn't being collected at Bennington and what it would take to collect it. This is not just a conceptual exercise: you should come into class not only able to explain what you chose, why it matters, and  how you would collect it, but you should also have begun actually collecting some of the actual data (or if the data is better collected programmatically, you should have a script that would do the work). 
   - You will need to work together, but it's up to you to determine what this looks like. 
-
 - For those in the self-quantification group (Nate, Elbunit, Asad, Toby, Matt, Elio, Lucy, Joe):
-
   - Your homework this week is to track TWO different things about yourself  for at least FIVE days in a row. Ideally, one of these should be more passive and programmatic (aka, done with the use of some code that does the bulk of the collection in the background) while the other is active and done by hand (aka, you physically recording some types of data points). 
-  - Be creative with what/how you collect, and be sure to bring in the results of the collection to class next week. 
+  - Be creative with what/how you collect, and be sure to bring in the results of the collection to class next week. Here are examples, but feel free to come up with your own methods!
     - Examples of programmatic collection: 
       - Installing an [app](https://play.google.com/store/apps/details?id=com.protogeo.moves&hl=en) on your phone that tracks [everywhere you go](https://foursquare.com/) and then export the data so that you have it for class next week. 
       - Downloading a program that [tracks everything you do](https://www.rescuetime.com/) on your computer.
@@ -173,8 +170,6 @@ Your other assignment this week is to experientially investigate means for agenc
       - Documenting everything you eat / noting where and how many cigarettes you smoke / etc etc
       - Taking a picture of each person you talk to
       - Regular journaling around a very specific, quantifiable, topic
-
-  Feel free to come up with your own methods!
 
 **Week Nine: October 31**   
 *Surveillance*   
