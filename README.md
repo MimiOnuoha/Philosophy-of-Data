@@ -153,9 +153,12 @@ READINGS:
 Your other assignment this week is to experientially investigate means for agency (or, if you disagree with the premise, experientially determine why it's faulty) through self and collective quantification.
 
 - For those in the collective group (Sierra, Eden, Lali, Lulu, Matt):
+
   - In the vein of the [Broadway](https://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/) article we read in class, work together to determine a type of data that isn't being collected at Bennington and what it would take to collect it. This is not just a conceptual exercise: you should come into class not only able to explain what you chose, why it matters, and  how you would collect it, but you should also have begun actually collecting some of the actual data (or if the data is better collected programmatically, you shuold have a script that would do the work). 
   - You will need to work together, but it's up to you to determine what this looks like. 
+
 - For those in the self-quantification group (Nate, Elbunit, Asad, Toby, Matt, Elio, Lucy, Joe):
+
   - Your homework this week is to track TWO different things about yourself  for at least FIVE days in a row. Ideally, one of these should be more passive and programmatic (aka, done with the use of some code that does the bulk of the collection in the background) while the other is active and done by hand (aka, you physically recording some types of data points). 
   - Be creative with what/how you collect, and be sure to bring in the results of the collection to class next week. 
     - Examples of programmatic collection: 
@@ -167,9 +170,11 @@ Your other assignment this week is to experientially investigate means for agenc
       - Or come up with your own version!
       - Scraping from Spotify every song you've listened to 
     - Examples of active collection by hand:
-      - Writing down everything you eat / how many cigarettes you smoke / etc etc 
+      - Documenting everything you eat / noting where and how many cigarettes you smoke / etc etc
       - Taking a picture of each person you talk to
-      - Journaling around a very specific topic.
+      - Regular journaling around a very specific, quantifiable, topic
+
+  Feel free to come up with your own methods!
 
 **Week Nine: October 31**   
 *Surveillance*   
