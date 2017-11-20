@@ -184,13 +184,17 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
   - Post a 200-400 word response on your blog. Do you agree with Bridle's claim that the very structure of automated reward systems inherently creates the conditions necessary for exploitation? How aware are you of the roles that these digital systems play in your everyday web life? Do you agree with Bridle's assertion that this is cause for alarm? If so, how do we begin to think about countering these things, and if not, why is it unimportant? 
 - You should have already read [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) by Shoshana Zuboff, but if not, make sure you have.
 
-**Week Eleven: November 14**  
+**November 14**  
 *Plan Day--No Class*
 
 [start thinking of final project ideas]
 
+**Week Eleven: November 21**  
+*Algorithmic Decision-Making*  
+What is an algorithm, and what work does it do? How do we consider fairness when it comes to automated decision-making?
+
 **Week Twelve: November 28**  
-*Transparency , Obfuscation, Resistance*  
+*Transparency, Fairness, Resistance*  
 Who does transparency benefit? Who does obfuscation benefit? What is it that we do not, and cannot, collect? 
 
 
