@@ -8,5 +8,7 @@ The medium that your work takes should be in alignment with the project that you
 
 At it's best, media art is implicitly involved in approaching a topic and making ti visible, understandably, playful, imaginative, speculative, or the like. Challenge yourself, work on something that is meaningful to or for you. You will have three weeks to work on this project, so as long as you come up with your idea early, Anna and I can provide the technical help that you need for implementation. 
 
+You may work alone or in groups. If you work in a group, you will need to divide the work equally. 
+
 Be prepared to present your project in front of a panel of guest critics on the last day of class (**December 12th**). Projects will be judged based on the depth of effort, research, implementation, and critical consideration behind them. For final projects you must also publish a post on your website or on github about the project; this will also be due on 12/12. 
 

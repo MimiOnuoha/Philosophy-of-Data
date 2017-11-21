@@ -193,6 +193,8 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
 *Algorithmic Decision-Making*  
 What is an algorithm, and what work does it do? How do we consider fairness when it comes to automated decision-making?
 
+NOTE: next week you should have at least an idea for your final!
+
 **Week Twelve: November 28**  
 *Transparency, Fairness, Resistance*  
 Who does transparency benefit? Who does obfuscation benefit? What is it that we do not, and cannot, collect? 
