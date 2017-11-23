@@ -162,7 +162,7 @@ Your other assignment this week is to experientially investigate means for agenc
       - Installing an [app](https://play.google.com/store/apps/details?id=com.protogeo.moves&hl=en) on your phone that tracks [everywhere you go](https://foursquare.com/) and then export the data so that you have it for class next week. 
       - Downloading a program that [tracks everything you do](https://www.rescuetime.com/) on your computer.
       - Installing a program or writing a custom script that logs [everything you type](https://www.rescuetime.com/) 
-      - I've written a short script that is in the week8 folder that simple asks you to record, via the terminal, your mood on a scale of 1 t o10. You can adapt this script so that it's scheduled to prompt you every so often, or just fill it out on your own every so often.
+      - I've written a short script that is in the week8 folder that simply asks you to record, via the terminal, your mood on a scale of 1 t o10. You can adapt this script so that it's scheduled to prompt you every so often, or just fill it out on your own every so often.
       - [Sleeptracking app](https://itunes.apple.com/us/app/sleep-watch-by-bodymatter/id1138066420?mt=8) 
       - Or come up with your own version!
       - Scraping from Spotify every song you've listened to 
@@ -190,14 +190,21 @@ We are increasingly living in a surveillance state, and data plays a crucial rol
 [start thinking of final project ideas]
 
 **Week Eleven: November 21**  
-*Algorithmic Decision-Making*  
-What is an algorithm, and what work does it do? How do we consider fairness when it comes to automated decision-making?
+*Algorithms + data-driven advertising, part 1*  
+What is the relationship between the reward system of the web and the everyday algorithms that are used to further it?
 
-NOTE: next week you should have at least an idea for your final!
+*Assignment:*
+
+- Read:
+  -  [On Automation in Media Industries](https://quod.lib.umich.edu/m/mij/15031809.0001.107?view=text;rgn=main)  (Napoli, Rutgers University)
+  -  [Uber's Algorithmic Monopoly](http://mattstoller.tumblr.com/post/82233202309/ubers-algorithmic-monopoly-we-are-not-setting) (Matthew Stoller, blogpost)
+  - [The Science Behind the Netflix Algorithms That Decide What You'll Watch Next](https://www.wired.com/2013/08/qq_netflix-algorithm/) (Vanderbilt, Wired, 2013)
+  - [Behind the Machine's Back](https://www.theatlantic.com/technology/archive/2014/04/behind-the-machines-back-how-social-media-users-avoid-getting-turned-into-big-data/360416/) (Madrigal, The Atlantic, 2014)
+- **Submit your idea for your final project.**  Use the homework form to do this. This idea can be a preliminary one, but you need to at least provide some sort of write-up on what it is you're planning to do and why. Also note if you are working alone or in a group. Be prepared to present your idea next week to the class and to get and give feedback to your fellow classmates. 
 
 **Week Twelve: November 28**  
-*Transparency, Fairness, Resistance*  
-Who does transparency benefit? Who does obfuscation benefit? What is it that we do not, and cannot, collect? 
+*Algorithms and Fairness*  
+How can we make sense of and respond to algorithmic bias? What does fairness look like in an age of automated decision-making? Who should be concerned with this question?
 
 
 **Week Thirteen: December 5**  
