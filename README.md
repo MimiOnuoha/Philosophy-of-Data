@@ -198,17 +198,30 @@ What is the relationship between the reward system of the web and the everyday a
 - Read:
   -  [On Automation in Media Industries](https://quod.lib.umich.edu/m/mij/15031809.0001.107?view=text;rgn=main)  (Napoli, Rutgers University)
   -  [Uber's Algorithmic Monopoly](http://mattstoller.tumblr.com/post/82233202309/ubers-algorithmic-monopoly-we-are-not-setting) (Matthew Stoller, blogpost)
-  - [The Science Behind the Netflix Algorithms That Decide What You'll Watch Next](https://www.wired.com/2013/08/qq_netflix-algorithm/) (Vanderbilt, Wired, 2013)
-  - [Behind the Machine's Back](https://www.theatlantic.com/technology/archive/2014/04/behind-the-machines-back-how-social-media-users-avoid-getting-turned-into-big-data/360416/) (Madrigal, The Atlantic, 2014)
+  -  [The Science Behind the Netflix Algorithms That Decide What You'll Watch Next](https://www.wired.com/2013/08/qq_netflix-algorithm/) (Vanderbilt, Wired, 2013)
+  -  [Behind the Machine's Back](https://www.theatlantic.com/technology/archive/2014/04/behind-the-machines-back-how-social-media-users-avoid-getting-turned-into-big-data/360416/) (Madrigal, The Atlantic, 2014)
 - **Submit your idea for your final project.**  Use the homework form to do this. This idea can be a preliminary one, but you need to at least provide some sort of write-up on what it is you're planning to do and why. Also note if you are working alone or in a group. Be prepared to present your idea next week to the class and to get and give feedback to your fellow classmates. 
 
 **Week Twelve: November 28**  
 *Algorithms and Fairness*  
 How can we make sense of and respond to algorithmic bias? What does fairness look like in an age of automated decision-making? Who should be concerned with this question?
 
+*Assignment:*
+
+- Read:
+  - [Our Machines Now Have Knowledge We'll Never Understand](https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/) (Wired)
+  - [An AI that predicts a neighborhood's wealth from space](https://www.wired.com/story/penny-an-ai-that-predicts-a-neighborhoods-wealth-from-space/) (Wired)
+  - [De-biasing AI systems](https://luminoso.com/resources/debiasing-ai-systems) (Luminoso)
+- Being progress on your final project! Be prepared to give us a brief update next week.
+- If you haven't done your homework over the course of the semester, get all the assignments in! 
+
+
 
 **Week Thirteen: December 5**  
+
 *Futures: Speculation, Machine Learning, Artificial Intelligence*
+
+
 
 
 **Week Fourteen: December 12**   
