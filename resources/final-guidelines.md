@@ -12,3 +12,13 @@ You may work alone or in groups. If you work in a group, you will need to divide
 
 Be prepared to present your project in front of a panel of guest critics on the last day of class (**December 12th**). Projects will be judged based on the depth of effort, research, implementation, and critical consideration behind them. For final projects you must also publish a post on your website or on github about the project; this will also be due on 12/12. 
 
+Things that your presentation should include: 
+
+ - What your project is
+ - Why you decided to do it (give us the background information we need! )
+ - How you did it
+ - What you actually did (if relevant: what you learned, what you weren't able to do, what you want to do in the future)
+
+Feel free to make a slide deck if you like. If you choose not to make a slide deck, make sure that you have prepared what you will say. 
+
+We will have two guest critics in attendance. Be ready!
