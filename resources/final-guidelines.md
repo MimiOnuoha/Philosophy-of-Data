@@ -6,7 +6,7 @@ For your final, you will be tasked with responding to any of the things that we 
 
 The medium that your work takes should be in alignment with the project that you're doing. Your project may involve a great deal of web scraping or  data collection in some form, but you still have to consider what the audience sees: what is the output? Think carefully about this. 
 
-At it's best, media art is implicitly involved in approaching a topic and making ti visible, understandably, playful, imaginative, speculative, or the like. Challenge yourself, work on something that is meaningful to or for you. You will have three weeks to work on this project, so as long as you come up with your idea early, Anna and I can provide the technical help that you need for implementation. 
+At it's best, media art is implicitly involved in approaching a topic and making it visible, understandably, playful, imaginative, speculative, or the like. Challenge yourself, work on something that is meaningful to or for you. You will have three weeks to work on this project, so as long as you come up with your idea early, Anna and I can provide the technical help that you need for implementation. 
 
 You may work alone or in groups. If you work in a group, you will need to divide the work equally. 
 

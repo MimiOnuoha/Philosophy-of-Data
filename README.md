@@ -221,7 +221,9 @@ How can we make sense of and respond to algorithmic bias? What does fairness loo
 
 *Futures: Speculation, Machine Learning, Artificial Intelligence*
 
+*Assignment:*
 
+- Work on your final projects!
 
 
 **Week Fourteen: December 12**   
